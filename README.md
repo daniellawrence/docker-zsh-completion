@@ -10,8 +10,8 @@ Drop the _docker file into your /.zsh/completion directory.
 Then reset zsh.
 
 ```sh
-mkdir -p /.zsh/completion
-curl https://raw.github.com/felixr/docker-zsh-completion/master/_docker >  /.zsh/completion
+mkdir -p ~/.zsh/completion
+curl https://raw.github.com/felixr/docker-zsh-completion/master/_docker >  ~/.zsh/completion/_docker
 exec zsh
 ```
 
