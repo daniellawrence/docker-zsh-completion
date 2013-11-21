@@ -3,6 +3,17 @@ docker-zsh-completion
 
 A [zsh](http://zsh.org) zsh completion for [docker](http://docker.io).
 
+How to Install
+--------------
+
+Drop the _docker file into your /.zsh/completion directory.
+Then reset zsh.
+
+```sh
+mkdir -p /.zsh/completion
+curl https://raw.github.com/felixr/docker-zsh-completion/master/_docker >  /.zsh/completion
+exec zsh
+```
 
 Contributors
 ------------
