@@ -1,7 +1,7 @@
 docker-zsh-completion
 =====================
 
-A [zsh](http://zsh.org) zsh completion for [docker](http://docker.io).
+A [zsh](http://zsh.org) completion for [docker](http://docker.io).
 
 How to Install
 --------------
